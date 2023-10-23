@@ -1,0 +1,66 @@
+body {
+    
+    background-image: url(/pattern.jpg);
+    margin-bottom: 20px;
+}
+
+header {
+    background-color: rgb(255, 217, 0);
+    justify-content: space-between;
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    margin-left: 0px;
+}
+
+ul {
+    list-style: none;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+li {
+    float: right;
+    display: block;
+    top : 5px;
+    width: 80px;
+   
+}
+
+h2, h3 , h4 {
+    color: #000000;
+}
+h1 {
+    text-align: center;
+    color: black;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    border-bottom: 3px solid #111;
+    padding: 13px;
+
+}
+
+
+section {
+    background-color: rgb(216, 171, 112);
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 20px;   
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+}
+
+footer {
+    float: center;
+    text-align: center;
+    color: aliceblue;
+    display: block;
+    padding: 15px;
+    background-color: black;
+}
