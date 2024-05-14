@@ -24,11 +24,6 @@
                                             </ul>
                                         </li>
                                         <li>
-                                            <a href="inbox.html">
-                                                <i class="fas fa-chart-bar"></i>Inbox</a>
-                                            <span class="inbox-num">3</span>
-                                        </li>
-                                        <li>
                                             <a href="#">
                                                 <i class="fas fa-shopping-basket"></i>eCommerce</a>
                                         </li>
